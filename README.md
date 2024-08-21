@@ -1,5 +1,6 @@
 
-**David Beale**  
+## David Beale 
+
 **Email:** david@beale.sh  
 **Phone:** 847-269-8474  
 
