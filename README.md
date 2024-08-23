@@ -3,6 +3,7 @@
 
 **Email:** david@beale.sh  
 **Phone:** 847-269-8474  
+**GitHub:** bealesh
 
 ---
 
@@ -29,7 +30,7 @@ Versatile and personable engineer with a robust background in DevOps, Site Relia
 
 **Dynatrace**  
 *Lead Solutions Engineer*  
-**Feb 2023 – Present | Chicago, IL**
+**Feb 2024 – Present | Chicago, IL**
 
 - Serve as the primary presales engineer on the enterprise acquisition team, supporting eight account executives across multiple verticals.
 - Successfully executed and supported Proof of Concepts (POCs), contributing to demo applications, tracks, and assets.
@@ -37,7 +38,7 @@ Versatile and personable engineer with a robust background in DevOps, Site Relia
 
 **OCC (Options Clearing Corporation)**  
 *Associate Principal, Site Reliability Engineering*  
-**July 2023 – Present | Chicago, IL**
+**July 2023 – Feb 2024 | Chicago, IL**
 
 - Lead the development of AWS infrastructure for OCC's cloud-native platform within the CARE (Cloud Automation Reliability Engineering) team.
 - Oversee logging and observability for multiple applications, leveraging Splunk.
